@@ -1,5 +1,3 @@
-## Uber Clone Project Summer 2024
+## Uber Clone using Next JS, React JS, Tailwind CSS and Firebase.
 
-Hi, I created an Uber Clone using Next JS, React JS, Tailwind CSS and Firebase.
-
-### [Watch the project demo video](https://youtu.be/1zpn0WZmXsc)
+### Watch the project demo video [here](https://youtu.be/1zpn0WZmXsc)
