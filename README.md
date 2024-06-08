@@ -2,4 +2,4 @@
 
 Hi, I created an Uber Clone using Next JS, React JS, Tailwind CSS and Firebase.
 
-### [![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
+### [![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)]([https://www.youtube.com/watch?v=_5tFXJQIzi4](https://youtu.be/1zpn0WZmXsc))
